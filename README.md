@@ -1,2 +1,2 @@
 # Weather-app
-Iam creating a weather app using HTML,CSS,JavaScript
+I am creating a weather app using HTML,CSS,JavaScript
